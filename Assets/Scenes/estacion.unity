@@ -1005,7 +1005,7 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.38361952, g: 1, b: 0.2971698, a: 1}
   m_Intensity: 3.05
   m_Range: 10
   m_SpotAngle: 30
@@ -4914,7 +4914,7 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.38361952, g: 1, b: 0.2971698, a: 1}
   m_Intensity: 3.05
   m_Range: 10
   m_SpotAngle: 30
@@ -5268,7 +5268,7 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.38361952, g: 1, b: 0.2971698, a: 1}
   m_Intensity: 3.05
   m_Range: 10
   m_SpotAngle: 30
@@ -7122,9 +7122,9 @@ Camera:
     y: 0
     width: 1
     height: 1
-  near clip plane: 0.3
+  near clip plane: 0.13
   far clip plane: 1000
-  field of view: 82.14249
+  field of view: 80.34
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
@@ -7150,8 +7150,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 961739749}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.012991047, y: 0.98720306, z: 0.11150832, w: -0.113257825}
-  m_LocalPosition: {x: -5.28, y: 2.451, z: 2.406}
+  m_LocalRotation: {x: -0.051185604, y: -0.48661512, z: -0.028255422, w: 0.87165785}
+  m_LocalPosition: {x: -18.335, y: 2.629, z: 2.991}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -7812,7 +7812,7 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.38361952, g: 1, b: 0.2971698, a: 1}
   m_Intensity: 3.05
   m_Range: 10
   m_SpotAngle: 30
@@ -11618,7 +11618,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 5139a152c70a4e243bad5f5b86e4cf67,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -6.7799997
+      value: -10.53
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5139a152c70a4e243bad5f5b86e4cf67,
         type: 3}
@@ -11628,7 +11628,7 @@ PrefabInstance:
     - target: {fileID: -8679921383154817045, guid: 5139a152c70a4e243bad5f5b86e4cf67,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0.569
+      value: -1.29
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 5139a152c70a4e243bad5f5b86e4cf67,
         type: 3}
@@ -13114,7 +13114,7 @@ Light:
   serializedVersion: 10
   m_Type: 2
   m_Shape: 0
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.38361952, g: 1, b: 0.2971698, a: 1}
   m_Intensity: 3.05
   m_Range: 10
   m_SpotAngle: 30
